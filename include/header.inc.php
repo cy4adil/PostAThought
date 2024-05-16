@@ -14,9 +14,9 @@
             <nav class="navbar">
                 <ul>
                     <li><a href="#">Home</a></li>
-                    <li><a href="#">Posts</a></li>
+                    <li><a href="#">Add Posts</a></li>
                     <li><a href="#">About</a></li>
-                    <li class="login-button"><a href="#">Login</a></li>
+                    <li class="login-button"><a class="log-text" href="#">Login</a></li>
                 </ul>
                 
             </nav>
